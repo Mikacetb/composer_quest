@@ -1,6 +1,7 @@
 {
-    "name": "macbook/composer_quest",
-    "description": "quete composer",
+    "name": "ehime/hello-world",
+    "description": "SayHello",
+    "type": "library",
     "authors": [
         {
             "name": "Mikaël MAROLLEAU-POIRIER",
