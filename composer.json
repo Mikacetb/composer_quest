@@ -1,0 +1,11 @@
+{
+    "name": "macbook/composer_quest",
+    "description": "quete composer",
+    "authors": [
+        {
+            "name": "Mikaël MAROLLEAU-POIRIER",
+            "email": "mikael.mp@icloud.com"
+        }
+    ],
+    "require": {}
+}
