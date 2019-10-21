@@ -1,12 +1,12 @@
 <?php
-
 namespace App\Wcs;
-class Hello
-{
-    public function talk()
+
+class Hello {
+
+public function talk()
     {
-        $sentence = "Hello World";
+        $sentence='Hello World';
         return $sentence;
     }
+
 }
-?>

@@ -1,12 +1,16 @@
 {
-    "name": "ehime/hello-world",
-    "description": "SayHello",
-    "type": "library",
+    "name": "macbook/composer_quest",
+    "description": "composer quest",
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
     "authors": [
         {
             "name": "Mikaël MAROLLEAU-POIRIER",
             "email": "mikael.mp@icloud.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
 }
